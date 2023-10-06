@@ -7,3 +7,58 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+body{
+  /*
+    Todo: set up body background & display
+  */
+
+}
+
+.game-board{
+  /*
+    Todo: set up gameboard
+  */
+
+}
+
+.card{
+  display: flex;
+  position: relative;
+
+  /*
+    Todo: adjust width, height, margin and background for card
+  */
+
+}
+
+.card > img{
+  width: 70%;
+  margin: auto;
+}
+
+.draw-card-section{
+  /*
+    Todo: adjust display method & direction
+  */
+  
+}
+
+#drawn-card{
+  /*
+    Todo: adjust height
+  */
+
+}
+
+#draw-button{
+  /*
+    Todo: adjust font, margin and padding
+  */
+
+}
+
+#restart-game-button{
+  font-size: medium;
+  padding: 10px 5px;
+}
